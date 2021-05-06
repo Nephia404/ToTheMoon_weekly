@@ -1,4 +1,8 @@
+body {
+    text-align: center;
+}
 .main-txt,
 .main-img {
     display: inline-block;
+        vertical-align: top;
 }
