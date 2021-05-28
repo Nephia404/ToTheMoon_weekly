@@ -1,0 +1,37 @@
+body {
+    color: black;
+    background-color: lightgray;
+    margin: 0px;
+}
+div {
+    background-color: white;
+    box-shadow: 10px 10px 5px #808080;
+    border-radius: 10px;
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px 10px;
+    overflow: hidden;
+}
+h3 {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 0px 10px 0px 10px;
+}
+h4 {
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 10px;
+}
+p {
+	font-family: serif;
+	margin: 0px 10px 0px 10px;
+	font-size: 13px;
+}
+img {
+    width: 200px;
+}
+figure {
+	text-align: right;
+	margin: 0px;
+	float:right;
+}	
